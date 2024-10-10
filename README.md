@@ -80,4 +80,4 @@ Now if I navigate to the Directory of the Ytest.txt file and open it.
 
 ![Screenshot (858)](https://github.com/user-attachments/assets/420d03bc-781f-43e1-ad7c-10b203a0cf20)
 
-There is two strings in the file that triggered our rule, a wallet address as well as a common phrase used in ransomware. In a real life environment another Yara rule would be run against the file directly with flags to indicate lines and what specifically in the file is triggering the YARA rule.
+There are two strings in the file that triggered the rule, a wallet address as well as a common phrase used in ransomware. In a real life environment another Yara rule would be run against the file directly with flags to indicate lines and what specifically in the file is triggering the FAILED scan.
