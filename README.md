@@ -21,6 +21,7 @@ The objective of the first half of this Lab was to understand how to write YARA 
 
 ## Script Running
 
+![Screenshot (856)](https://github.com/user-attachments/assets/a6f0a0e0-2da1-42ca-8bc4-6ee6f00f12e0)
 
 ![Screenshot (840)](https://github.com/user-attachments/assets/6237c196-c1fe-4d03-bacd-c4df73ec8a1b)
 
