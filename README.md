@@ -19,11 +19,20 @@ The objective of the first half of this Lab was to understand how to write YARA 
 - Visual Studio Code : Writing and Debugging YARA Rules and Python Script
 - Windows Command Prompt : For Executing Scans
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Script Running
 
-Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
+![Screenshot (840)](https://github.com/user-attachments/assets/6237c196-c1fe-4d03-bacd-c4df73ec8a1b)
 
-*Ref 1: Network Diagram*
+![Screenshot (841)](https://github.com/user-attachments/assets/88bfa17b-2523-4393-8b49-c7660ddb50e2)
+
+![Screenshot (842)](https://github.com/user-attachments/assets/03907330-7859-48e9-9907-4e61a1d095d1)
+
+![Screenshot (845)](https://github.com/user-attachments/assets/033456d5-a84d-4809-aca3-6152384a020d)
+
+![Screenshot (846)](https://github.com/user-attachments/assets/e7ca6d34-24d7-454e-8a5d-8a7031a535c8)
+
+![Screenshot (847)](https://github.com/user-attachments/assets/700d45da-27dc-4f3b-bcd6-d9430ac28228)
+
+![Screenshot (848)](https://github.com/user-attachments/assets/3160fb58-b6ae-4774-a445-8e0cb7b0646c)
+
