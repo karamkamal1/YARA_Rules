@@ -19,6 +19,10 @@ The objective of the first half of this Lab was to understand how to write YARA 
 - Visual Studio Code : Writing and Debugging YARA Rules and Python Script
 - Windows Command Prompt : For Executing Scans
 
+## YARA Rule For Example
+
+
+
 ## Script Running
 
 ![Screenshot (856)](https://github.com/user-attachments/assets/a6f0a0e0-2da1-42ca-8bc4-6ee6f00f12e0)
