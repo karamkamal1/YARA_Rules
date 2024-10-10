@@ -25,14 +25,14 @@ The objective of the first half of this Lab was to understand how to write YARA 
 
 
 
-This YARA rule is designed to detects common phrases typically associated with Ransomware, it also detects the presence of Crypto Wallet Addresses like Bitcoin, Ethereum, Monero, and Litecoin. All of those being key indicators fo ransomware. Any triggers would warrant further investigation. 
+This YARA rule is designed to detects common phrases typically associated with Ransomware, it also detects the presence of Crypto Wallet Addresses like Bitcoin, Ethereum, Monero, and Litecoin. All of those being key indicators fo ransomware. Any triggers would warrant further investigation. [RULE](https://github.com/karamkamal1/YARA_Rules/blob/58cb7226e1513282fb836efc0c66150fe53840f5/malware_ransomware.yara)
 
 ----------------------------------------------------------------------------------------------------
 ## Script Running With Example Rule
 
 ![Screenshot (856)](https://github.com/user-attachments/assets/a6f0a0e0-2da1-42ca-8bc4-6ee6f00f12e0)
 
-This Python Script will allow a user to define a YARA rule they wish to test against a particular file or directory on the system. It will then label the file as PASSED or FAILED based on the YARA rules string matches.
+This Python Script will allow a user to define a YARA rule they wish to test against a particular file or directory on the system. It will then label the file as PASSED or FAILED based on the YARA rules string matches. [SCRIPT](https://github.com/karamkamal1/YARA_Rules/blob/58cb7226e1513282fb836efc0c66150fe53840f5/YARA_Scan_Script.py)
 
 ------------------------------------------------------------------------------------------------
 
