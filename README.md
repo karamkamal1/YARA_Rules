@@ -21,7 +21,7 @@ The objective of the first half of this Lab was to understand how to write YARA 
 
 ## YARA Rule For Example
 
-![Screenshot (859)](https://github.com/user-attachments/assets/0124a3e9-2d3a-48b4-bbe2-4a27b63268f6)
+![Screenshot (860)](https://github.com/user-attachments/assets/5871e716-2ae5-45f6-b99f-4210356c41d1)
 
 
 ## Script Running With Example Rule
