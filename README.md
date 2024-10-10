@@ -23,17 +23,18 @@ The objective of the first half of this Lab was to understand how to write YARA 
 
 ![Screenshot (856)](https://github.com/user-attachments/assets/a6f0a0e0-2da1-42ca-8bc4-6ee6f00f12e0)
 
-![Screenshot (840)](https://github.com/user-attachments/assets/6237c196-c1fe-4d03-bacd-c4df73ec8a1b)
+![Screenshot (840)](https://github.com/user-attachments/assets/7c1ef368-7e54-492d-90ef-deb27775acdd)
 
-![Screenshot (841)](https://github.com/user-attachments/assets/88bfa17b-2523-4393-8b49-c7660ddb50e2)
+![Screenshot (841)](https://github.com/user-attachments/assets/51d5b6c3-e774-4460-803c-de9b82c71bbd)
 
-![Screenshot (842)](https://github.com/user-attachments/assets/03907330-7859-48e9-9907-4e61a1d095d1)
+![Screenshot (842)](https://github.com/user-attachments/assets/53f7f65d-ad26-45cc-87a2-2b0b155c7ce7)
 
-![Screenshot (845)](https://github.com/user-attachments/assets/033456d5-a84d-4809-aca3-6152384a020d)
+![Screenshot (845)](https://github.com/user-attachments/assets/ed662fbd-001a-4233-9d10-943c3bc8c347)
 
-![Screenshot (846)](https://github.com/user-attachments/assets/e7ca6d34-24d7-454e-8a5d-8a7031a535c8)
+![Screenshot (846)](https://github.com/user-attachments/assets/0c497eb8-ee9f-44f6-98a2-1dc5b0429fa1)
 
-![Screenshot (847)](https://github.com/user-attachments/assets/700d45da-27dc-4f3b-bcd6-d9430ac28228)
+![Screenshot (847)](https://github.com/user-attachments/assets/92803295-0760-4c25-a83e-327664065233)
 
-![Screenshot (848)](https://github.com/user-attachments/assets/3160fb58-b6ae-4774-a445-8e0cb7b0646c)
+![Screenshot (857)](https://github.com/user-attachments/assets/1a9a972b-daad-4d2f-9c7d-4366f138efcd)
 
+![Screenshot (858)](https://github.com/user-attachments/assets/420d03bc-781f-43e1-ad7c-10b203a0cf20)
